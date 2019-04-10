@@ -6,3 +6,5 @@ import './index.css';
 import Dashboard from './dashboard/Dashboard';
 
 ReactDOM.render(<Dashboard />, document.getElementById('root'));
+
+//yay for code!
